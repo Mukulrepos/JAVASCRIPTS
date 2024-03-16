@@ -1,10 +1,10 @@
 let score = "33as"; // swapp with null data type it can print type a number but print the 0
 
-// console.log(typeof score); // check any variable value using the typeof
+console.log(typeof score); // check any variable value using the typeof
 
-// let perform_number= Number(score)
-// console.log(typeof(perform_number));
-// console.log(perform_number);
+let perform_number= Number(score)
+console.log(typeof(perform_number));
+console.log(perform_number);
 
 // if any body number with some string it can print the NaN 
 // type
