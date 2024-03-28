@@ -1,3 +1,3 @@
-console.log(shin_chan.name);
-// console.log(shin_chan["age"]);
-// console.log(shin_chan[mysim]);
+
+// const battery_test = battery_performance(40);
+// console.log(battery_test);
