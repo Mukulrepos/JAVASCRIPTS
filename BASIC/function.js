@@ -60,3 +60,21 @@ console.log(sensror_Date);
 // function change_customer_name(){
 
 // }
+
+
+// part 2 
+function calculate_cart_price(...num){
+    return num
+
+}
+
+console.log(calculate_cart_price(100,200,300,400));
+
+const objects = {
+    username :"mukul",
+    price:200
+}
+function handle(anyobject ){
+    console.log(`user name is : ${anyobject.username}\n prices is : ${anyobject.price} `);
+}
+console.log(objects);
